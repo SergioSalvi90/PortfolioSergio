@@ -12,16 +12,6 @@ html {
     scroll-behavior: smooth;
 }
 
-.inicio {
-    background-image: url('./imagenes/fondo.jpg'); /* Ruta relativa correcta */
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    padding: 50px 20px;
-
-}
-
-
 /*menu*/
 .contenedor-header {
     background: #1e2326;
